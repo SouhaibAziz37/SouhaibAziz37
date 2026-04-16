@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouhaibAziz37
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
