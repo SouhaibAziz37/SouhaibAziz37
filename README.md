@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:0d1117&height=220&section=header&text=Souhaib%20Aziz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Python%20%26%20ML&descAlignY=58&descSize=18" width="100%"/>
 
-<br/>
-<br/>
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=AI+Student;Generative+AI+Enthusiast;Python+%26+Machine+Learning;React+%26+Next.js+Developer" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -30,14 +30,13 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI student** at Barani Institute of Information Technology, based in Rawalpindi, Pakistan, with a strong interest in **Generative AI**, **Machine Learning**, and **Computer Vision**. I also work as a **React & Next.js developer** on the web side, and enjoy turning ideas into working software rather than just studying theory.
+I'm an **AI student** at Barani Institute of Information Technology, with a strong interest in **Generative AI**, **Machine Learning**, and **Computer Vision**. I also work as a **React & Next.js developer** on the web side, and enjoy turning ideas into working software rather than just studying theory.
 
 Most of what's on this profile comes from hands-on learning projects — controlling system volume with hand gestures using OpenCV/MediaPipe, a desktop cafe management system in C#, an e-commerce web app, and a couple of classic ML models (house price prediction, spam classification).
 
 - 🎓 AI student — Barani Institute of Information Technology
 - 🧠 Enthusiast in Generative AI, Machine Learning & Computer Vision
 - 💻 React & Next.js developer
-- 📍 Rawalpindi, Punjab, Pakistan
 - 💬 Open to learning opportunities, collaborations, and feedback
 
 <br/>
