@@ -112,30 +112,6 @@ Most of what's on this profile comes from hands-on learning projects — I'd rat
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouhaibAziz37/SouhaibAziz37/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouhaibAziz37/SouhaibAziz37/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SouhaibAziz37/SouhaibAziz37/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-</div>
-
-<br/>
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouhaibAziz37/SouhaibAziz37/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouhaibAziz37/SouhaibAziz37/main/profile-3d-contrib/profile-south-korea.svg" />
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/SouhaibAziz37/SouhaibAziz37/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</picture>
-</div>
-
-<br/>
-
 ## 📫 Let's Connect
 
 <div align="center">
