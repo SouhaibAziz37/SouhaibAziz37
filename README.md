@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @SouhaibAziz37
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+name: Generate Contribution Snake
 
-<!---
-SouhaibAziz37/SouhaibAziz37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+on:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
+
+jobs:
+generate:
+permissions:
+contents: write
+
+```
+runs-on: ubuntu-latest
+
+steps:
+  - name: Generate Snake
+    uses: Platane/snk@v3
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      outputs: |
+        dist/github-snake.svg
+        dist/github-snake-dark.svg?palette=github-dark
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Publish Snake
+    uses: crazy-max/ghaction-github-pages@v4
+    with:
+      build_dir: dist
+    env:
+      GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+```
