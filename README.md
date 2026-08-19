@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=AI+Student;Generative+AI+Enthusiast;Python+%26+Machine+Learning;React+%26+Next.js+Developer" alt="Typing SVG" />
 </a>
 
-<sub>📍 Rawalpindi, Punjab, Pakistan &nbsp;•&nbsp; 🎓 Barani Institute of Information Technology</sub>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/souhaib-aziz-9363353a7">
